@@ -1,0 +1,90 @@
+{
+	"components": [
+		{
+			"type": "Page",
+			"id": "1c3b-fa32-1371-2775",
+			"initialized": true,
+			"userProps": {},
+			"className": ".page",
+			"version": "6.6.0",
+			"props": {
+				"name": "page3",
+				"children": [
+					"d7eb-777c-842d-4ae9",
+					"5a28-861f-29eb-7fbc",
+					"c473-3619-33b9-ae00",
+					"eff3-ed9c-1de9-3c66"
+				],
+				"parent": null,
+				"orientation": "PORTRAIT"
+			}
+		},
+		{
+			"type": "StatusBar",
+			"id": "d7eb-777c-842d-4ae9",
+			"userProps": {},
+			"className": ".statusBar",
+			"props": {
+				"name": "statusBar",
+				"children": [],
+				"parent": "1c3b-fa32-1371-2775",
+				"isRemovable": false
+			}
+		},
+		{
+			"type": "HeaderBar",
+			"id": "5a28-861f-29eb-7fbc",
+			"userProps": {
+				"title": "newPage001"
+			},
+			"className": ".headerBar",
+			"props": {
+				"name": "headerBar",
+				"title": "newPage001",
+				"children": [],
+				"parent": "1c3b-fa32-1371-2775",
+				"isRemovable": false
+			}
+		},
+		{
+			"type": "Button",
+			"id": "6de0-8681-e4f9-a61d",
+			"userProps": {},
+			"className": ".button",
+			"props": {
+				"name": "button1",
+				"children": [],
+				"parent": "1c3b-fa32-1371-2775"
+			}
+		},
+		{
+			"type": "Button",
+			"id": "c473-3619-33b9-ae00",
+			"userProps": {
+				"usePageVariable": true
+			},
+			"className": ".button",
+			"props": {
+				"name": "btn",
+				"usePageVariable": true,
+				"children": [],
+				"parent": "1c3b-fa32-1371-2775"
+			}
+		},
+		{
+			"type": "ImageView",
+			"id": "eff3-ed9c-1de9-3c66",
+			"userProps": {
+				"image": "smartface.png",
+				"height": null,
+				"width": null
+			},
+			"className": ".imageView",
+			"props": {
+				"name": "imageView1",
+				"children": [],
+				"parent": "1c3b-fa32-1371-2775"
+			}
+		}
+	]
+}

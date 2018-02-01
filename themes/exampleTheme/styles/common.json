@@ -1,0 +1,9 @@
+{
+	".adadda": {
+		"backgroundColor": "rgba( 54, 54, 54, 1 )"
+	},
+	".adadad": {
+		"backgroundColor": "rgba( 255, 255, 255, 0 )",
+		"maxWidth": 350
+	}
+}

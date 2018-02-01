@@ -1,0 +1,13 @@
+{
+	"config": {
+		"theme": {
+			"currentTheme": "exampleTheme",
+			"themes": [
+				"defaultTheme",
+				"exampleTheme"
+			],
+			"baseTheme": "exampleTheme"
+		},
+		"version": "6.6.0"
+	}
+}
